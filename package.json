@@ -1,0 +1,19 @@
+{
+  "name": "downloadmoremoney.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd src/ && python3 -m http.server 9001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/downloadmoremoney/downloadmoremoney.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/downloadmoremoney/downloadmoremoney.github.io/issues"
+  },
+  "homepage": "https://github.com/downloadmoremoney/downloadmoremoney.github.io#readme"
+}
